@@ -1,0 +1,162 @@
+[
+	{
+		"tag": "chongqing",
+		"place": "重慶市",
+		"value": 1847
+	},
+	{
+		"tag": "fujian",
+		"place": "福建",
+		"value": 33815
+	},
+	{
+		"tag": "shanghai",
+		"place": "上海市",
+		"value": 3490
+	},
+	{
+		"tag": "hunan",
+		"place": "湖南",
+		"value": 51416
+	},
+	{
+		"tag": "hubei",
+		"place": "湖北",
+		"value": 30018
+	},
+	{
+		"tag": "henan",
+		"place": "河南",
+		"value": 37706
+	},
+	{
+		"tag": "anhui",
+		"place": "安徽",
+		"value": 33048
+	},
+	{
+		"tag": "jiangxi",
+		"place": "江西",
+		"value": 39178
+	},
+	{
+		"tag": "xiamen",
+		"place": "廈門",
+		"value": 1001
+	},
+	{
+		"tag": "zhejiang",
+		"place": "浙江",
+		"value": 46998
+	},
+	{
+		"tag": "jiangsu",
+		"place": "江蘇",
+		"value": 54950
+	},
+	{
+		"tag": "shandong",
+		"place": "山東",
+		"value": 72604
+	},
+	{
+		"tag": "tianjin",
+		"place": "天津市",
+		"value": 1939
+	},
+	{
+		"tag": "beijing",
+		"place": "北京市",
+		"value": 2765
+	},
+	{
+		"tag": "hebei",
+		"place": "河北",
+		"value": 17147
+	},
+	{
+		"tag": "shanxi",
+		"place": "山西",
+		"value": 3804
+	},
+	{
+		"tag": "ningxia",
+		"place": "寧夏",
+		"value": 114
+	},
+	{
+		"tag": "shaanxi",
+		"place": "陝西",
+		"value": 6607
+	},
+	{
+		"tag": "guizhu",
+		"place": "貴州",
+		"value": 9658
+	},
+	{
+		"tag": "guangxi",
+		"place": "廣西",
+		"value": 15930
+	},
+	{
+		"tag": "guangdong",
+		"place": "廣東",
+		"value": 66613
+	},
+	{
+		"tag": "hainan",
+		"place": "海南",
+		"value": 2796
+	},
+	{
+		"tag": "sichuan",
+		"place": "四川",
+		"value": 45290
+	},
+	{
+		"tag": "yunnan",
+		"place": "雲南",
+		"value": 9836
+	},
+	{
+		"tag": "liaoning",
+		"place": "遼寧",
+		"value": 7134
+	},
+	{
+		"tag": "jilin",
+		"place": "吉林",
+		"value": 1452
+	},
+	{
+		"tag": "neimonggol",
+		"place": "內蒙古",
+		"value": 340
+	},
+	{
+		"tag": "gansu",
+		"place": "甘肅",
+		"value": 1248
+	},
+	{
+		"tag": "xizang",
+		"place": "西藏",
+		"value": 7
+	},
+	{
+		"tag": "qinghai",
+		"place": "青海",
+		"value": 92
+	},
+	{
+		"tag": "xinjiang",
+		"place": "新疆",
+		"value": 62
+	},
+	{
+		"tag": "heilongjiang",
+		"place": "黑龍江",
+		"value": 890
+	}
+]

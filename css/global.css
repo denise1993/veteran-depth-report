@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/**************************************
+global.css 所有通用設定
+***************************************/
+* { -webkit-box-sizing: border-box; box-sizing: border-box; -webkit-font-smoothing: antialiased;}
+html { -webkit-text-size-adjust: none; /*修正旋轉後文字會變大*/ -webkit-overflow-scrolling: touch; /*修正ios滾動順暢*/ }
+body { background-color: #252533; font-family: "微軟正黑體", "Microsoft JhengHei UI", "Microsoft JhengHei", sans-serif; font-size: 15px; font-weight: 400; color: #fff; line-height: 1.7; word-wrap: break-word;}
+
+/*768px pad*/
+@media only screen and (min-width:768px){
+	body { font-size: 18px;}
+}
+
+/*清除 clearfix*/
+.clearfix::after{ clear: both; display: block; height: 0px; content: ""; visibility: hidden;}
+
+/*選取顏色*/
+::-moz-selection{ background-color: #f8ce21; color: #171717;}
+::selection{ background-color: #f8ce21; color: #171717; }
+
+/*預設連結狀態*/
+a{ transition: color 0.3s linear;}
+a:link, a:visited{ color: #ffff00;}
+a:hover, a:active{ text-decoration: none;}
+
+/*去除圖片底下空白*/
+img { vertical-align: bottom;}
+
+/*樣式歸零*/
+ul { list-style: none;}
+
+/*h標題設定*/
+h1 { font-size: 40px; font-weight: 900; font-family: "Noto Serif TC", serif; line-height: 1.2;}
+h2 { font-size: 30px; font-weight: 900; font-family: "Noto Serif TC", serif; line-height: 1.2;}
+h3 { font-size: 22px; font-weight: 900; font-family: "Noto Serif TC", serif; line-height: 1.2;}
+h4 { font-size: 20px; font-weight: 900; font-family: "Noto Serif TC", serif; line-height: 1.2;}
+h5 { font-size: 18px; font-weight: 600; font-family: "Noto Serif TC", serif; line-height: 1.2;}
+h6 { font-size: 16px; font-weight: 400; font-family: "Noto Serif TC", serif; line-height: 1.2;}
